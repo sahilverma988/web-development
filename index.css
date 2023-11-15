@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    
+}
+BR{
+    color: blue;
+    text-align: center;
+
+}
+body{
+    background-image: url(pic2.jpg);
+    background-size: cover;
+}
+#div1{
+    text-align: center;
+}
+a{
+    margin-right: 270px;
+}
+#div2{
+    height: 50%;
+    width: 50%;
+    
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    
+}
